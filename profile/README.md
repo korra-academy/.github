@@ -42,4 +42,6 @@ Everything is MIT licensed. Use it in your classroom, your business or your bedr
 
 - 🌐 Campus: [korra.academy](https://korra.academy/)
 - 🏛️ Studio: [korra.studio](https://korra.studio/)
+- ▶️ YouTube: [@Korra.Academy](https://www.youtube.com/@Korra.Academy)
+- 📸 Instagram: [@korra.academy](https://www.instagram.com/korra.academy/)
 - ✉️ Email: campus@korra.academy

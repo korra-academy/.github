@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new unplugged activity — the sock-matching problem (linear search vs sorting first) → [coding-for-kids-activities](https://github.com/korra-academy/coding-for-kids-activities)
+🆕 **This week:** new FAQ entry — should you revise one subject all day or mix subjects? (interleaving) → [gcse-revision-timetable](https://github.com/korra-academy/gcse-revision-timetable)
 
 ## The 8 Doors
 

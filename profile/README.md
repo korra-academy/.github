@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new FAQ entry — should you revise one subject all day or mix subjects? (interleaving) → [gcse-revision-timetable](https://github.com/korra-academy/gcse-revision-timetable)
+🆕 **This week:** new deep-dive — the data lane, month by month (SQL, spreadsheets, projects, interviews) → [career-change-to-tech-roadmap](https://github.com/korra-academy/career-change-to-tech-roadmap)
 
 ## The 8 Doors
 

@@ -37,6 +37,7 @@ We publish free learning resources and small, dependency-free teaching apps — 
 - [it-certification-roadmap](https://github.com/korra-academy/it-certification-roadmap) — which IT certification to take, in what order
 - [build-your-first-chatbot](https://github.com/korra-academy/build-your-first-chatbot) — a chatbot in one HTML file, no installs, no API keys
 - [vibe-coding-starter-prompts](https://github.com/korra-academy/vibe-coding-starter-prompts) — copy-paste prompts for building your first apps with AI
+- [python-exercises-for-beginners](https://github.com/korra-academy/python-exercises-for-beginners) — 20 beginner Python exercises with hidden solutions
 
 Everything is MIT licensed. Use it in your classroom, your business or your bedroom.
 

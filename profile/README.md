@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new worked example — answering online reviews with AI (steps + a saved prompt) → [ai-for-small-business-guide](https://github.com/korra-academy/ai-for-small-business-guide)
+🆕 **This week:** new template — exam countdown planner (topic triage + final-weeks session plan) → [tutoring-lesson-plan-templates](https://github.com/korra-academy/tutoring-lesson-plan-templates)
 
 ## The 8 Doors
 

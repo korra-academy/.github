@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new cert profile — CompTIA Linux+ (where it fits, how to prepare, LPIC-1 comparison) → [it-certification-roadmap](https://github.com/korra-academy/it-certification-roadmap)
+🆕 **This week:** new worked example — teach your chatbot a two-rule quiz (rule order + substring matching, and why bots need memory) → [build-your-first-chatbot](https://github.com/korra-academy/build-your-first-chatbot)
 
 ## The 8 Doors
 

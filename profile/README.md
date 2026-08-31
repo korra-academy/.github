@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new worked example — teach your chatbot a two-rule quiz (rule order + substring matching, and why bots need memory) → [build-your-first-chatbot](https://github.com/korra-academy/build-your-first-chatbot)
+🆕 **This week:** two new starter prompts — a spending tracker built from your own pasted data, and a two-player reaction duel on one keyboard → [vibe-coding-starter-prompts](https://github.com/korra-academy/vibe-coding-starter-prompts)
 
 ## The 8 Doors
 

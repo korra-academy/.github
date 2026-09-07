@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** two new starter prompts — a spending tracker built from your own pasted data, and a two-player reaction duel on one keyboard → [vibe-coding-starter-prompts](https://github.com/korra-academy/vibe-coding-starter-prompts)
+🆕 **This week:** activity 12 — *Variable cups*, an unplugged game that teaches variables and program state with three labelled paper cups → [coding-for-kids-activities](https://github.com/korra-academy/coding-for-kids-activities)
 
 ## The 8 Doors
 

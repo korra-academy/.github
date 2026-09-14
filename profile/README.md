@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** activity 12 — *Variable cups*, an unplugged game that teaches variables and program state with three labelled paper cups → [coding-for-kids-activities](https://github.com/korra-academy/coding-for-kids-activities)
+🆕 **This week:** new FAQ — *What should I do if I fall behind on my revision timetable?* Skip the missed slots, don't restart, protect the nearest exam → [gcse-revision-timetable](https://github.com/korra-academy/gcse-revision-timetable)
 
 ## The 8 Doors
 

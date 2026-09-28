@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new deep-dive — *the IT & support lane, month by month*: A+ as curriculum, home lab, troubleshooting log, service desk job titles and the ladder into cyber → [career-change-to-tech-roadmap](https://github.com/korra-academy/career-change-to-tech-roadmap)
+🆕 **This week:** new worked example — *turning a voice note into a staff SOP*: record the expert, transcribe, prompt for numbered steps with [CHECK] markers, review, test on a new starter → [ai-for-small-business-guide](https://github.com/korra-academy/ai-for-small-business-guide)
 
 ## The 8 Doors
 

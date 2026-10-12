@@ -39,6 +39,7 @@ We publish free learning resources and small, dependency-free teaching apps — 
 - [vibe-coding-starter-prompts](https://github.com/korra-academy/vibe-coding-starter-prompts) — copy-paste prompts for building your first apps with AI
 - [python-exercises-for-beginners](https://github.com/korra-academy/python-exercises-for-beginners) — 20 beginner Python exercises with hidden solutions
 - [scratch-project-ideas](https://github.com/korra-academy/scratch-project-ideas) — 25 Scratch project ideas for kids, sorted by difficulty, with parent notes
+- [a-level-maths-revision-checklist](https://github.com/korra-academy/a-level-maths-revision-checklist) — topic-by-topic A-Level Maths checklist, rate red/amber/green, printable, one HTML file
 
 Everything is MIT licensed. Use it in your classroom, your business or your bedroom.
 

@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new template — *topic tracker*: one sheet per student per subject, every spec topic rated red/amber/green on evidence, plus new repo *a-level-maths-revision-checklist* → [tutoring-lesson-plan-templates](https://github.com/korra-academy/tutoring-lesson-plan-templates)
+🆕 **This week:** new cert profile — *CompTIA CySA+*: where it fits after Security+, what the blue-team analyst exam actually tests, and how to build a detection lab for it → [it-certification-roadmap](https://github.com/korra-academy/it-certification-roadmap)
 
 ## The 8 Doors
 

@@ -4,7 +4,7 @@
 
 Korra Academy is an online learning campus at **[korra.academy](https://korra.academy/)**. We combine live 1-to-1 tutoring, small group sessions and a self-paced library covering coding, AI skills, cyber security, exam preparation and professional certifications.
 
-🆕 **This week:** new worked example — *a quiz that knows it's running*: add a `quizAsked` memory variable and reply tokens so the bot only accepts an answer after asking the question, plus how LLM chatbots handle state differently → [build-your-first-chatbot](https://github.com/korra-academy/build-your-first-chatbot)
+🆕 **This week:** two new vibe coding prompts — a *Pomodoro study timer* (Web Audio beep, tab-title countdown, rounds saved in localStorage) and a *pixel art editor* that exports a PNG from a canvas → [vibe-coding-starter-prompts](https://github.com/korra-academy/vibe-coding-starter-prompts). New repo this month: [homelab-starter-guide](https://github.com/korra-academy/homelab-starter-guide) — first homelab on an old laptop, plus an offline subnet calculator.
 
 ## The 8 Doors
 
@@ -40,6 +40,7 @@ We publish free learning resources and small, dependency-free teaching apps — 
 - [python-exercises-for-beginners](https://github.com/korra-academy/python-exercises-for-beginners) — 20 beginner Python exercises with hidden solutions
 - [scratch-project-ideas](https://github.com/korra-academy/scratch-project-ideas) — 25 Scratch project ideas for kids, sorted by difficulty, with parent notes
 - [a-level-maths-revision-checklist](https://github.com/korra-academy/a-level-maths-revision-checklist) — topic-by-topic A-Level Maths checklist, rate red/amber/green, printable, one HTML file
+- [homelab-starter-guide](https://github.com/korra-academy/homelab-starter-guide) — your first homelab on an old laptop: Linux, SSH, Docker, Pi-hole, networking labs, plus an offline subnet calculator in one HTML file
 
 Everything is MIT licensed. Use it in your classroom, your business or your bedroom.
 
